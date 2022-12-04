@@ -1,3 +1,3 @@
 go go
-usmc2
+usmc777
 go
