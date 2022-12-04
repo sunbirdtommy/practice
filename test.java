@@ -1,3 +1,3 @@
 go go
-usmc
+usmc2
 go
